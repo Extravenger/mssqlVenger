@@ -1,6 +1,6 @@
 # mssqlVenger
 
-mssqlVenger is a tool designed for performing lateral movement within Active Directory (AD) environments. Focused on leveraging linked server across the network.
+mssqlVenger is a tool designed for performing lateral movement within Active Directory (AD) environments. Focused on leveraging linked servers across AD network.
 
 ## 🚀 Features
 - <u><b>Impersonate a login</b></u>: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
