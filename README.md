@@ -13,6 +13,7 @@ mssqlVenger is a tool designed for performing lateral movement within Active Dir
 
 ## 📋 Usage
 The tool will ask for four parameters: Server Name, Database Name, username and password. (Not providing username and password result in Windows Authentication.)
+
 Upon running, you will see the following options:
 
 ```
