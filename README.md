@@ -4,7 +4,7 @@ mssqlVenger is a tool designed for performing lateral movement within Active Dir
 
 ## Features
 
-- <b><u>Impersonate a login</u></b>: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
+- <u><b>Impersonate a login</b></u>: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
 - <b><u>Impersonate a user</u></b>: Use EXECUTE AS USER to impersonate users within the current MSSQL instance.
 - <b><u>Execute commands on linked servers</u></b>: Utilize EXEC AT LinkedServer to run commands on linked servers.
 - <b><u>Perform xp_dirtree</u></b>: Exploit the xp_dirtree extended procedure for reconnaissance or command execution.
