@@ -28,7 +28,7 @@ Upon running, you will see the following options:
     7. Enable RPCOUT on linked server
 ```
 
-🙌 Contributions
+## 🙌 Contributions
 
 Contributions, feature requests, and bug reports are welcome!
 
