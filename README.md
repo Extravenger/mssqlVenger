@@ -12,7 +12,10 @@ mssqlVenger is a tool designed for performing lateral movement within Active Dir
 - <b><u>Enable RPCOUT on linked servers</u></b>: Activate the RPC OUT feature to extend exploitation capabilities.
 
 ## 📋 Usage
-The tool will ask for four parameters: Server Name, Database Name, username and password. (Not providing username and password result in Windows Authentication.)
+The tool will ask for four parameters: Server Name, <em>Server Name, Database Name, Username and Password. 
+
+[!Caution]
+Not providing username and password will result in Windows Authentication.
 
 Upon running, you will see the following options:
 
