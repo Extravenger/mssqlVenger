@@ -4,10 +4,10 @@ mssqlVenger is a tool designed for performing lateral movement within Active Dir
 
 ## Features
 
-- Impersonate a login: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
-- Impersonate a user: Use EXECUTE AS USER to impersonate users within the current MSSQL instance.
-- Execute commands on linked servers: Utilize EXEC AT LinkedServer to run commands on linked servers.
-- Perform xp_dirtree: Exploit the xp_dirtree extended procedure for reconnaissance or command execution.
-- Create new sysadmin users: Add new sysadmin-level users on local or remote servers.
-- Pull login-mapping and execute commands on linked servers: Gather login mappings and leverage them for command execution.
-- <b>Enable RPCOUT on linked servers</b>: Activate the RPC OUT feature to extend exploitation capabilities.
+- <b><u>Impersonate a login</u></b>: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
+- <b><u>Impersonate a user</u></b>: Use EXECUTE AS USER to impersonate users within the current MSSQL instance.
+- <b><u>Execute commands on linked servers</u></b>: Utilize EXEC AT LinkedServer to run commands on linked servers.
+- <b><u>Perform xp_dirtree</u></b>: Exploit the xp_dirtree extended procedure for reconnaissance or command execution.
+- <b><u>Create new sysadmin users</u></b>: Add new sysadmin-level users on local or remote servers.
+- <b><u>Pull login-mapping and execute commands on linked servers</u></b>: Gather login mappings and leverage them for command execution.
+- <b><u>Enable RPCOUT on linked servers</u></b>: Activate the RPC OUT feature to extend exploitation capabilities.
