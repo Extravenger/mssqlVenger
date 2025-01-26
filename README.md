@@ -27,3 +27,11 @@ Upon running, you will see the following options:
     6. Pull login-mapping and execute commands on linked server  
     7. Enable RPCOUT on linked server
 ```
+
+🙌 Contributions
+
+Contributions, feature requests, and bug reports are welcome!
+
+    Fork the repository.
+    Create a new branch for your feature or fix.
+    Submit a pull request with detailed explanations of your changes.
