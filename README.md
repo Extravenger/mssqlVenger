@@ -31,14 +31,6 @@ Upon running, you will see the following options:
     7. Enable RPCOUT on linked server
 ```
 
-## 🙌 Contributions
-
-Contributions, feature requests, and bug reports are welcome!
-
-    Fork the repository.
-    Create a new branch for your feature or fix.
-    Submit a pull request with detailed explanations of your changes.
-
 ## ⚠️ Disclaimer
 
 This tool is designed to be used only for authorized purposes related to managing and interacting with MSSQL databases. Unauthorized use, including access without proper authorization, is strictly prohibited and may result in legal or administrative action. Always ensure compliance with applicable laws and regulations.
