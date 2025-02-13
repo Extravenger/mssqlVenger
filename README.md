@@ -2,7 +2,7 @@
 
 mssqlVenger is a tool designed for performing lateral movement within Active Directory (AD) environments. Focused on leveraging linked servers across AD network.
 
-## 🚀 Features
+## Features
 - <u><b>Impersonate a login</b></u>: Use EXECUTE AS LOGIN to impersonate logins in the current MSSQL instance.
 - <b><u>Impersonate a user</u></b>: Use EXECUTE AS USER to impersonate users within the current MSSQL instance.
 - <b><u>Execute commands on linked servers</u></b>: Utilize EXEC AT LinkedServer to run commands on linked servers.
@@ -11,7 +11,7 @@ mssqlVenger is a tool designed for performing lateral movement within Active Dir
 - <b><u>Pull login-mapping and execute commands on linked servers</u></b>: Gather login mappings and leverage them for command execution.
 - <b><u>Enable RPCOUT on linked servers</u></b>: Activate the RPC OUT feature to extend exploitation capabilities.
 
-## 📋 Usage
+## Usage
 The tool will ask for 4 parameters: <em>Server Name, Database Name, Username and Password. 
 
 > [!Caution]
@@ -31,6 +31,6 @@ Upon running, you will see the following options:
     7. Enable RPCOUT on linked server
 ```
 
-## ⚠️ Disclaimer
+## Disclaimer
 
 This tool is designed to be used only for authorized purposes related to managing and interacting with MSSQL databases. Unauthorized use, including access without proper authorization, is strictly prohibited and may result in legal or administrative action. Always ensure compliance with applicable laws and regulations.
