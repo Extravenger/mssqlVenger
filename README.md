@@ -1,4 +1,4 @@
-# mssqlVengert
+# mssqlVenger
 
 mssqlVenger is a tool designed for performing lateral movement within Active Directory (AD) environments. Focused on leveraging linked servers across AD network.
 
